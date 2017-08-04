@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="131px" height="129px" viewBox="0 0 131 129" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.1 (43504) - http://www.bohemiancoding.com/sketch -->
+    <title>rocket orange</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="rocket-orange" stroke="#FF9F29" stroke-width="10">
+            <g id="Group-2" transform="translate(9.000000, 6.000000)">
+                <path d="M28,63.0813269 C51.1380334,18.9886605 78.225273,-1.64131302 109.261719,1.19140625 C123.131065,35.7265448 83.7435021,85.3814096 68.7079408,92.6227026 C68.7079408,92.6227026 55.1386272,82.7755774 28,63.0813269 Z" id="Path-8" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M98.2163522,69 C102.522485,79.7737681 98.4166043,94.3731675 85.8987103,112.798198 C85.8987103,112.798198 85.8987103,100.357596 72,93.0489105 C72,90.7946411 80.7387841,82.7783376 98.2163522,69 Z" id="Path-9" stroke-linecap="round" stroke-linejoin="round" transform="translate(85.934797, 90.899099) rotate(-9.000000) translate(-85.934797, -90.899099) "></path>
+                <path d="M46.7927228,34.1339335 C33.6320768,32.94483 18.0345025,39.6736507 0,54.3203956 C0,54.3203956 14.0782253,51.521869 25.4755215,61.5382373 C28.0265325,61.031137 35.1322663,51.8963691 46.7927228,34.1339335 Z" id="Path-9" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M27.9349354,80 L50.0020319,95.8238001 C43.5448302,109.574079 31.3371217,116.449219 13.3789062,116.449219 C12.8841146,102.69894 17.7361243,90.5492001 27.9349354,80 Z" id="Path-10"></path>
+                <ellipse id="Oval-3" cx="81.0184896" cy="35.626203" rx="10.0184896" ry="8.62620302"></ellipse>
+            </g>
+        </g>
+    </g>
+</svg>

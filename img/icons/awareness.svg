@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="168px" height="129px" viewBox="0 0 168 129" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.1 (43504) - http://www.bohemiancoding.com/sketch -->
+    <title>eye orange</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="eye-orange" stroke="#FF9F29" stroke-width="10">
+            <g id="Group-4" transform="translate(7.000000, 11.000000)">
+                <path d="M0,70.9720799 C59.484375,12.9330174 103.515625,23.9486424 139.328125,66.7220799 C139.328125,70.9720799 122.054688,98.5658299 89.3515625,107.370517 C56.6484375,116.175205 16.0234375,98.8705174 0,70.9720799 Z" id="Path"></path>
+                <circle id="Oval" cx="69.5" cy="70.5" r="38.5"></circle>
+                <path d="M14.359375,38.9312393 L7,25" id="Path-2" stroke-linecap="round"></path>
+                <path d="M48.84375,21.3464255 L43,8" id="Path-3" stroke-linecap="round"></path>
+                <path d="M81,17.307363 L83.71875,0" id="Path-3" stroke-linecap="round"></path>
+                <path d="M117,27.5926084 L124.5,9" id="Path-4" stroke-linecap="round"></path>
+                <path d="M143,48.2569028 C143,48.2569028 147.635417,42.8379352 156.90625,32" id="Path-5" stroke-linecap="round"></path>
+            </g>
+        </g>
+    </g>
+</svg>
